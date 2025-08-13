@@ -1,0 +1,8 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+final_academic_weeks.csv linguist-generated=true
+final_academic_terms.csv linguist-generated=true
+final_engagement_weekly.csv linguist-generated=true
+final_student_population.csv linguist-generated=true
+final_who5.csv linguist-generated=true
+final_student_demographics.csv linguist-generated=true
